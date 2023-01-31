@@ -1,6 +1,6 @@
 # FrontendMentor-multi-step-form-main
 
-The purpose of this project is to mainly practice **React**, **GIT-Workflow** and **Redux**.
+The purpose of this project is to mainly practice **React**, the **GIT-Workflow** and **Redux**.\
 The Designs were taken from FrontendMentor, a free to use Website with designs.
 
 - [ ] HTML + SCSS
